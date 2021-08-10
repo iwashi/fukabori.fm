@@ -171,6 +171,10 @@ actors:
     image_url: /images/actors/nakabonne.jpeg
     name: nakabonne
     url: https://twitter.com/nakabonne
+  TokunagaKohei:
+    image_url: /images/actors/tokunagaKohei.jpg
+    name: Kohei Tokunaga
+    url: https://twitter.com/TokunagaKohei
 author: iwashi
 description: 技術などを深掘りして楽しむPodcastです。 #fukabori
 description_long: 何らかの技術などに詳しいゲストを読んで、その入門から応用的な内容まで深掘りしていくPodcast
