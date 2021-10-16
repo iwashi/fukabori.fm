@@ -10,6 +10,7 @@
     <media:keywords>{{ site.keywords }}</media:keywords>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology</media:category>
     <language>{{ site.language }}</language>
+    <itunes:new-feed-url>https://pitpa.jp/rss/fukabori</itunes:new-feed-url>
     <itunes:subtitle>{{ site.description | xml_escape }}</itunes:subtitle>
     <itunes:author>{{ site.author }}</itunes:author>
     <itunes:summary>{{ site.description | xml_escape }}</itunes:summary>
