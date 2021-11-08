@@ -187,6 +187,10 @@ actors:
     image_url: /images/actors/Nunerm.png
     name: Nunerm
     url: https://twitter.com/Nunerm
+  yamamuteking:
+    image_url: /images/actors/yamamuteking.jpeg
+    name: yamamuteking
+    url: https://twitter.com/yamamuteking
 author: iwashi
 description: 技術・組織・マネジメントなどを深掘りして楽しむPodcastです。 #fukabori
 description_long: 何らかの技術・組織・マネジメントなどに詳しいゲストを読んで、その入門から応用的な内容まで深掘りしていくPodcast
