@@ -191,6 +191,14 @@ actors:
     image_url: /images/actors/yamamuteking.jpeg
     name: yamamuteking
     url: https://twitter.com/yamamuteking
+  7omich:
+    image_url: /images/actors/7omich.jpeg
+    name: 7omich
+    url: https://twitter.com/7omich
+  t-kurimura:
+    image_url: /images/actors/t-kurimura.jpeg
+    name: t-kurimura
+    url: https://twitter.com/t_kurimura
 author: iwashi
 description: 技術・組織・マネジメントなどを深掘りして楽しむPodcastです。 #fukabori
 description_long: 何らかの技術・組織・マネジメントなどに詳しいゲストを読んで、その入門から応用的な内容まで深掘りしていくPodcast
