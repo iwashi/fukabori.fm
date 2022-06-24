@@ -1,6 +1,6 @@
 actors:
   iwashi:
-    image_url: /images/actors/iwashi.png
+    image_url: /images/actors/iwashi.jpeg
     name: iwashi
     url: https://twitter.com/iwashi86
   kaname:
@@ -231,6 +231,10 @@ actors:
     image_url: /images/actors/kameike.jpeg
     name: kameike
     url: https://twitter.com/kameike
+  AIcia_Solid:
+    image_url: /images/actors/aicia_solid.jpeg
+    name: AIcia_Solid
+    url: https://twitter.com/AIcia_Solid
 author: iwashi
 description: 技術・組織・マネジメントなどを深掘りして楽しむPodcastです。 #fukabori
 description_long: 何らかの技術・組織・マネジメントなどに詳しいゲストを読んで、その入門から応用的な内容まで深掘りしていくPodcast
