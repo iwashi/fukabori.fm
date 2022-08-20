@@ -239,6 +239,14 @@ actors:
     image_url: /images/actors/morishin.jpeg
     name: morishin127
     url: https://twitter.com/morishin127
+  motoi:
+    image_url: /images/actors/motoi.jpeg
+    name: motoi
+    url: https://twitter.com/motoi
+  kedamatti:
+    image_url: /images/actors/kedamatti.jpeg
+    name: kedamatti
+    url: https://twitter.com/kedamatti
 author: iwashi
 description: 技術・組織・マネジメントなどを深掘りして楽しむPodcastです。 #fukabori
 description_long: 何らかの技術・組織・マネジメントなどに詳しいゲストを読んで、その入門から応用的な内容まで深掘りしていくPodcast
