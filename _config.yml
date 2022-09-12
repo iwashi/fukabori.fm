@@ -251,6 +251,10 @@ actors:
     image_url: /images/actors/g_suzutatsu.jpeg
     name: g_suzutatsu
     url: https://twitter.com/g_suzutatsu
+  r1ccha:
+    image_url: /images/actors/r1ccha.jpeg
+    name: r1ccha
+    url: https://twitter.com/r1ccha
 author: iwashi
 description: 技術・組織・マネジメントなどを深掘りして楽しむPodcastです。 #fukabori
 description_long: 何らかの技術・組織・マネジメントなどに詳しいゲストを読んで、その入門から応用的な内容まで深掘りしていくPodcast
