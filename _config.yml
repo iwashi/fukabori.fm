@@ -259,6 +259,10 @@ actors:
     image_url: /images/actors/mmasaki.jpeg
     name: mmasaki 
     url: https://github.com/mmasaki
+  Keisuke69:
+    image_url: /images/actors/Keisuke69.jpeg
+    name: Keisuke69
+    url: https://github.com/Keisuke69
 author: iwashi
 description: 技術・組織・マネジメントなどを深掘りして楽しむPodcastです。 #fukabori
 description_long: 何らかの技術・組織・マネジメントなどに詳しいゲストを読んで、その入門から応用的な内容まで深掘りしていくPodcast
