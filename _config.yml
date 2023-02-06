@@ -262,11 +262,15 @@ actors:
   Keisuke69:
     image_url: /images/actors/Keisuke69.jpeg
     name: Keisuke69
-    url: https://github.com/Keisuke69
+    url: https://twitter.com/Keisuke69
   hsbt:
     image_url: /images/actors/hsbt.png
     name: hsbt
-    url: https://github.com/hsbt
+    url: https://twitter.com/hsbt
+  watal_i27e:
+    image_url: /images/actors/watal_i27e.jpeg
+    name: watal_i27e
+    url: https://twitter.com/watal_i27e
 author: iwashi
 description: 技術・組織・マネジメントなどを深掘りして楽しむPodcastです。 #fukabori
 description_long: 何らかの技術・組織・マネジメントなどに詳しいゲストを読んで、その入門から応用的な内容まで深掘りしていくPodcast
