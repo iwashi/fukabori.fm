@@ -279,6 +279,10 @@ actors:
     image_url: /images/actors/bto.jpeg
     name: BTO
     url: https://twitter.com/bto
+  zsc:
+    image_url: /images/actors/zsc.png
+    name: Zachary Sarah Corleissen
+    url: https://corleissen.com/
 author: iwashi
 description: 技術・組織・マネジメントなどを深掘りして楽しむPodcastです。 #fukabori
 description_long: 何らかの技術・組織・マネジメントなどに詳しいゲストを読んで、その入門から応用的な内容まで深掘りしていくPodcast
