@@ -307,6 +307,10 @@ actors:
     image_url: /images/actors/tomiyama.jpeg
     name: tomiyama
     url: https://www.facebook.com/masaaki.tomiyama.7
+  succhiello:
+    image_url: /images/actors/succhiello.jpeg
+    name: succhiello
+    url: https://twitter.com/succhiello
 author: iwashi
 description: 技術・組織・マネジメントなどを深掘りして楽しむPodcastです。 #fukabori
 description_long: 何らかの技術・組織・マネジメントなどに詳しいゲストを読んで、その入門から応用的な内容まで深掘りしていくPodcast
