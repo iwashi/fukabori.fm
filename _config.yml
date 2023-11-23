@@ -319,6 +319,10 @@ actors:
     image_url: /images/actors/ykajiaaaaa.jpeg
     name: y.kajiura
     url: https://twitter.com/ykajiaaaaa
+  sandayuu:
+    image_url: /images/actors/sandayuu.jpeg
+    name: sandayuu
+    url: https://twitter.com/sandayuu
 author: iwashi
 description: 技術・組織・マネジメントなどを深掘りして楽しむPodcastです。 #fukabori
 description_long: 何らかの技術・組織・マネジメントなどに詳しいゲストを読んで、その入門から応用的な内容まで深掘りしていくPodcast
