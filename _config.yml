@@ -331,6 +331,10 @@ actors:
     image_url: /images/actors/yoichiro.jpeg
     name: yoichiro
     url: https://twitter.com/yoichiro
+  udzura:
+    image_url: /images/actors/udzura.jpeg
+    name: Uchio Kondo
+    url: https://twitter.com/udzura
 author: iwashi
 description: 技術・組織・マネジメントなどを深掘りして楽しむPodcastです。 #fukabori
 description_long: 何らかの技術・組織・マネジメントなどに詳しいゲストを読んで、その入門から応用的な内容まで深掘りしていくPodcast
