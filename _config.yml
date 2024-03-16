@@ -339,6 +339,10 @@ actors:
     image_url: /images/actors/tai.jpeg
     name: Nobuhiro Tai
     url: https://www.linkedin.com/in/%E5%AE%A3%E8%A3%95-%E7%94%B0%E4%BA%95-371498279
+  dmytro:
+    image_url: /images/actors/dmytro.webp
+    name: Dmytro Yarmak
+    url: https://www.linkedin.com/in/dmytro-yarmak/
 author: iwashi
 description: 技術・組織・マネジメントなどを深掘りして楽しむPodcastです。 #fukabori
 description_long: 何らかの技術・組織・マネジメントなどに詳しいゲストを読んで、その入門から応用的な内容まで深掘りしていくPodcast
