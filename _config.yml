@@ -343,6 +343,10 @@ actors:
     image_url: /images/actors/dmytro.webp
     name: Dmytro Yarmak
     url: https://www.linkedin.com/in/dmytro-yarmak/
+  spring_aki:
+    image_url: /images/actors/spring_aki.jpeg
+    name: Aki
+    url: https://x.com/spring_aki
 author: iwashi
 description: 技術・組織・マネジメントなどを深掘りして楽しむPodcastです。 #fukabori
 description_long: 何らかの技術・組織・マネジメントなどに詳しいゲストを読んで、その入門から応用的な内容まで深掘りしていくPodcast
