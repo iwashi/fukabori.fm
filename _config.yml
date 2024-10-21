@@ -363,6 +363,10 @@ actors:
     image_url: /images/actors/miwa_ensan.jpg
     name: miwa_ensan
     url: https://x.com/miwa_ensan
+  noriyuki_kojima:
+    image_url: /images/actors/noriyuki_kojima.jpg
+    name: Noriyuki Kojima
+    url: https://x.com/noriyuki_kojima
 author: iwashi
 description: 技術・組織・マネジメントなどを深掘りして楽しむPodcastです。 #fukabori
 description_long: 何らかの技術・組織・マネジメントなどに詳しいゲストを読んで、その入門から応用的な内容まで深掘りしていくPodcast
