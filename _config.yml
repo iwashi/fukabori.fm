@@ -371,6 +371,10 @@ actors:
     image_url: /images/actors/dora_e_m.jpg
     name: 190ODA（いくお）
     url: https://x.com/dora_e_m
+  danno:
+    image_url: /images/actors/general.png
+    name: 檀野 隆一
+    url: #
 author: iwashi
 description: 技術・組織・マネジメントなどを深掘りして楽しむPodcastです。 #fukabori
 description_long: 何らかの技術・組織・マネジメントなどに詳しいゲストを読んで、その入門から応用的な内容まで深掘りしていくPodcast
