@@ -375,6 +375,14 @@ actors:
     image_url: /images/actors/danno.jpg
     name: 檀野 隆一
     url: #
+  markunet:
+    image_url: /images/actors/markunet.jpg
+    name: Masayuki Kobayashi
+    url: https://x.com/markunet
+  aztecher_:
+    image_url: /images/actors/aztecher_.jpg
+    name: Mikiya Michishita
+    url: https://x.com/aztecher_
 author: iwashi
 description: 技術・組織・マネジメントなどを深掘りして楽しむPodcastです。 #fukabori
 description_long: 何らかの技術・組織・マネジメントなどに詳しいゲストを読んで、その入門から応用的な内容まで深掘りしていくPodcast
