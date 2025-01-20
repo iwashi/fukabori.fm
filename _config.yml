@@ -383,6 +383,10 @@ actors:
     image_url: /images/actors/aztecher_.jpg
     name: Mikiya Michishita
     url: https://x.com/aztecher_
+  toru_kita:
+    image_url: /images/actors/toru_kita.jpg
+    name: Toru Kitagawa
+    url: https://x.com/toru_kita
 author: iwashi
 description: 技術・組織・マネジメントなどを深掘りして楽しむPodcastです。 #fukabori
 description_long: 何らかの技術・組織・マネジメントなどに詳しいゲストを読んで、その入門から応用的な内容まで深掘りしていくPodcast
