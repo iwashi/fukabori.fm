@@ -391,6 +391,10 @@ actors:
     image_url: /images/actors/agektmr.jpg
     name: えーじ
     url: https://x.com/agektmr
+  kumassy_:
+    image_url: /images/actors/kumassy_.jpg
+    name: くまっしー
+    url: https://x.com/kumassy_
 author: iwashi
 description: 技術・組織・マネジメントなどを深掘りして楽しむPodcastです。 #fukabori
 description_long: 何らかの技術・組織・マネジメントなどに詳しいゲストを読んで、その入門から応用的な内容まで深掘りしていくPodcast
