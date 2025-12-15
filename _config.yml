@@ -411,6 +411,10 @@ actors:
     image_url: /images/actors/yasukawa0713.jpg
     name: yasukawa0713
     url: https://x.com/yasukawa0713
+  LoveIdahoBurger:
+    image_url: /images/actors/LoveIdahoBurger.jpg
+    name: Aki
+    url: https://x.com/LoveIdahoBurger
 author: iwashi
 description: 技術・組織・マネジメントなどを深掘りして楽しむPodcastです。 #fukabori
 description_long: 何らかの技術・組織・マネジメントなどに詳しいゲストを読んで、その入門から応用的な内容まで深掘りしていくPodcast
